@@ -1,30 +1,40 @@
-# Werkstattauftrag W13 GlowPI
+
+# Werkstattauftrag W13 PiGlow
 
 Inhaltsverzeichnis:
-1. Autoren, Versionierung des Dokumentes
-Autoren: Thomas Züger & Jonah Gutknecht<br>
-Version: 1.0
-Link: https://github.com/BupBup1/M306-Service
+-------------------
 
-2. Einführung
-Beschreibung: Welche Funktionen wird der Service erfuellen
-Vorgesehener Zeitaufwand für die <br>
-Realisierung <br>
-Stolpersteine <br>
+# 1. Autoren, Versionierung des Dokumentes
+Autoren: Jonah Gutknecht, Thomas Züger
+<br>
 
-3. Benötigte Hard- und Software
-Hardware (Materialliste, Funktionalitaet<br>
-Software (Anforderungen, Firmware,OS-Image, ergaenzende SW-Packages, Ab- hängigkeiten, Funktionalitaet)
 
-4. Installationsanleitung
-Anweisungen verständlich und nachvollziehbar
-Keine fertigen Lösungsschritte aufzeigen<br>
-Hilfestellung (Tipps, Quellen...)<br>
 
-5. Qualitätskontrolle (Pruefen der Funktionalität mit Ablauf von Kommandos und entsprechenden Outputs)
+# 2. Einfuehrung 
+   - Beschreibung: Welche Funktionen wird der Service erfuellen
+   - Vorgesehener Zeitaufwand für die Realisierung
+   - Stolpersteine
 
-6. Error-Handling
+# 3. Benoetigte Hard- und Software
+   - Hardware (Materialliste, Funktionalitaet)
+   - Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Ab-
+	hängigkeiten, Funktionalitaet)
 
-7. Quellen
+# 4. Installationsanleitung
+ (Didaktisch reduzierte Anleitung. Lernende sollen eine eigene Lösungswege realisieren)
+   - Anweisungen verstaendlich und nachvollziehbar
+   - Keine fertigen Loesungsschritte aufzeigen
+   - Hilfestellung (Tipps, Quellen...)
 
-8. OpenSource Lizenz
+# 5. Qualitaetskontrolle
+ (Pruefen der Funktionalitaet mit Ablauf von Kommandos
+	und entsprechenden Outputs)
+
+# 6. Error-Handling 
+
+# 7. Quellen
+
+# 8. OpenSource Lizenz
+copyright
+
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Schweiz Lizenz About No description, website, or topics provided. Resources Readme Releases No releases published Packages No packages published
